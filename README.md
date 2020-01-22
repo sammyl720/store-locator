@@ -1,7 +1,5 @@
 # Node.js GeoJSON API & App | Store Locator
 
-[Tutorial by Traversy Media](https://www.youtube.com/watch?v=9FQrFah9rnc)
-
 ### Description
 
 A Store locator API that serves [GeoJson](https://geojson.org/) data. As welll as a simple frontend that uses [Mapbox](https://geojson.org/) to plot the points on a map
@@ -35,3 +33,5 @@ They are served using express static middleware that points to the root public d
 ```
 
 The frontend uses [Bootstrap](https://getbootstrap.com/) for styling.
+
+[Tutorial by Traversy Media](https://www.youtube.com/watch?v=9FQrFah9rnc)
